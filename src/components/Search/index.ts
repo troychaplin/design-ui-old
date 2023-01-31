@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './Search';
+export * from './Search'

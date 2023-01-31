@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './DetailsItem';
+export * from './DetailsItem'
