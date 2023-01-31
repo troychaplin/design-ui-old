@@ -44,3 +44,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Resources
+
+-   [How to Configure a React App with TypeScript, TailwindCSS, Yarn and Storybook](https://blog.bitsrc.io/how-to-configure-a-react-app-with-typescript-tailwindcss-yarn-and-storybook-a271df5d9884)
