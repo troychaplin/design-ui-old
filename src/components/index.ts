@@ -7,9 +7,7 @@ export * from './Calendar/Calendar'
 export * from './Cards/EventCard/EventCard'
 export * from './Cards/NewsCard/NewsCard'
 export * from './DropDown/DropDown'
-export * from './EventLocation/EventLocation'
 export * from './Filter/Filter'
-export * from './Forms/BaseForm/Form'
 export * from './HeroIcon/HeroIcon'
 export * from './Link/Link'
 // export * from "./ListingItems/DetailsItem/DetailsItem";
@@ -21,11 +19,9 @@ export * from './Link/Link'
 // export * from "./ListingItems/MarketplaceItem/MarketplaceItem";
 // export * from "./ListingItems/NewsItem/NewsItem";
 export * from './Loaders/CardLoader/CardLoader'
-export * from './LocationPicker/LocationPicker'
 export * from './Pagination/Pagination'
 export * from './Prose/Prose'
 export * from './Search/Search'
 export * from './SocialShare/SocialShare'
-export * from './Table/Table'
 export * from './Toast/Toast'
 // export * from "./TopNav/TopNav";
