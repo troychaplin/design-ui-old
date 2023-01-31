@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './FeedItem';
+export * from './FeedItem'

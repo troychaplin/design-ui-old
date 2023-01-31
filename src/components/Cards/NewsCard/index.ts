@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './NewsCard';
+export * from './NewsCard'

@@ -1,1 +1,1 @@
-export * from './StackedList';
+export * from './StackedList'

@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './EventItem';
+export * from './EventItem'

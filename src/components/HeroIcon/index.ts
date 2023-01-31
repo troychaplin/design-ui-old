@@ -1,2 +1,2 @@
 // UPDATE FILE REFERENCE
-export * from './HeroIcon';
+export * from './HeroIcon'
